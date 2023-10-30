@@ -39,7 +39,7 @@ In questa sezione vengono creati vari certificati utilizzati per firmare le appl
 
 1. Cliccare su + per creare un nuovo certificato.   
 2. Selezionare il tipo e cliccare su Continue.
-3. 1. Verrà richiesto di caricare un CertificateSigningRequest. È necessario generare questo file da un Mac tramite l'app di sistema Keychain Access. Seguire la [guida ufficiale di Apple](https://help.apple.com/developer-account/#/devbfa00fef7) per generare la CSR e caricarla sul portale.guida ufficiale di Apple per generare la CSR e caricarla sul portale.
+3. 1. Verrà richiesto di caricare un CertificateSigningRequest. È necessario generare questo file da un Mac tramite l'app di sistema Keychain Access. Seguire la [guida ufficiale di Apple](https://developer.apple.com/help/account/create-certificates/create-a-certificate-signing-request/) per generare la CSR e caricarla sul portale.
 4. Cliccare su Continue e generare il certificato. Scaricare il certificato e farne il backup, ma non caricarlo in repository, sopratutto se pubbliche.
 
 È necessario creare almeno un certificato Apple Development per lo sviluppo dell'applicazione, e sarà necessario creare un certificato Apple Distribution per pubblicare l'app quando lo sviluppo è completo.

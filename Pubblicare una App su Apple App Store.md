@@ -1,6 +1,6 @@
 [Aggiornata al 30 Ottobre 2023]
 
-per eventuali domande domande: [lorenzo@starktech.it](mailto:lorenzo@starktech.it)
+[lorenzo@starktech.it](mailto:lorenzo@starktech.it)
 ## Iscrizione e Configurazione Account
 
 Per poter pubblicare un applicazione sull'App Store è necessario iscriversi all'Apple Develper Program **e posserere un Mac**. Prima di poter proseguire è necessario essere in possesso di un Apple ID, oppure [crearne uno nuovo](https://appleid.apple.com/). Per iscriversi all'Apple Developer Program, accedere alla [pagina dedicata ](https://developer.apple.com/programs/enroll/)e completare il processo di enrollment. Alla fine di tutto verrà chiesto di abbonarsi al servizio per 100$ all'anno. L'abbonamento è obbligatorio per pubblicare le app sull'App Store, sia per mantenere pubblicate quelle già presenti.

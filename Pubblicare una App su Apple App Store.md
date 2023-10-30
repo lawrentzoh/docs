@@ -197,7 +197,7 @@ Senza selezionando Runner tra i TARGETS, spostarsi sulla tab Signing & Capabilit
 Prima di procedere alla compilazione è consigliato pulire la cache cliccando, nella barra del menu di macOS in alto, ``Product > Clean Build Folder``. 
 
 Completata la pulizia, cambiare tipo di build cliccando sulla barra degli strumenti di Xcode e selezionando Any iOS Device.
-![[Screenshot 2023-10-30 alle 12.59.36.png]]
+![[https://github.com/lawrentzoh/docs/blob/2a02af8438174661e6996d7d75d96e2fc8d19611/Screenshot%202023-10-30%20alle%2012.59.36.png]]
 
 Cliccare poi su ``Product > Build`` per iniziare la compilazione. La compilazione potrebbe richiedere parecchi minuti in funzione della potenza di calcolo della macchina e delle dimensioni dell'app.
 
